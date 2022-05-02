@@ -1,0 +1,43 @@
+body{
+
+    background-size: fit;
+    background-position: center;
+
+}
+
+.heading{
+
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    
+}
+
+#back{
+
+    color: aqua;
+    background-color: blue;
+    width: 75px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 20px;
+    box-shadow:  1px 1px 50px lightblue ;
+
+}
+
+#status{
+
+    width: 100%;
+    font-size: 15px;
+
+}
+
+canvas{
+
+    box-shadow: 1px 1px 40px lightseagreen;
+    border-radius: 20px;
+    border-style: ridge;
+    border-color: lightskyblue;
+    border-width: 10px;
+
+}
